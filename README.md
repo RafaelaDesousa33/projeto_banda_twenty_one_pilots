@@ -2,6 +2,8 @@ Projeto Banda – Twenty One Pilots
 
 Projeto desenvolvido como atividade acadêmica com o objetivo de criar uma página web estática sobre uma banda musical, utilizando HTML e CSS.
 
+![Integrantes da banda](images/projeto_banda_twenty_one_pilots_foto.png)
+
 A banda escolhida foi Twenty One Pilots, devido à sua identidade visual marcante e relevância no cenário musical.
 
 Objetivo do Projeto
